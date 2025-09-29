@@ -16,7 +16,7 @@ List of Characters
     * Sources: Ultimate Nick Fury; Wyatt Face Texture
   * Classic
     * Sources: Nick Fury (Classic Lower & Ultimate Upper); Wyatt Face Texture
-  * Retro
+  * Retro - Based on Marvel Heroes costumes War Torn, which itself based on some parts worn by Punisher
     * Sources: Nick Fury (Classic Lower & Ultimate Upper); Wyatt Face Texture; Original Bandanna
   * Marvel Knights - Modern but with Jacket
     * Sources: Same as Modern, but now with Ultimate Blade Jacket
@@ -27,7 +27,7 @@ List of Characters
     * Sources: Red Guardian
   * Ultimate
     * Sources: Quicksilver (usees BaconWizard Fix)
-  * Retro - made by myself
+  * Retro - made by myself. Heroes for Hire 97
     * Sources: Retextured Modern; Original Guards & Knee
 * Captain Britain (TBC) - Original model release with source Ulimate textures by Enigma, but requires update model while recreate his confirmed Alternate costumes
   * Ultimate - only fix weights
