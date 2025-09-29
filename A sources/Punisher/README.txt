@@ -1,5 +1,3 @@
-All are in IGB & FBX formats. BLEND Files are separated & requires to be downloaded to a same folder as the raw asset files.
-
 = CHANGES =
 To propriate with Cut Playable Status, his playable slot changes to #131. If you guys want to change to OG number where Longshot Mod first exist, go ahead, including additional textures (change or not)
 
@@ -42,4 +40,5 @@ Miles838: Co-Tester, Main Proper Porter
 BLaw, Enigma & BaconWizard: Kitbash Project Inspirations
 Kingsadam, ak2ny, Enigma, UltraMegaMagnus: Alchemy5 Tool & Archived assets + Tips; Punisher Machine Pistole & other model issue solving (ak2ny's case)
 Activision-Blizzard: X-Men Legends & Marvel Ultimate Alliance duology
+
 Marvel: Rights
