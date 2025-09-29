@@ -1,5 +1,3 @@
-All are in IGB & FBX formats. BLEND Files are separated & requires to be downloaded to a same folder as the raw asset files.
-
 = COSTUMES =
 All costumes uses Guardian Costumes except 1 which is Quicksilver's
 
@@ -26,4 +24,5 @@ BLaw, Enigma & BaconWizard: Kitbash Project Inspirations
 Kingsadam, ak2ny, Enigma, UltraMegaMagnus: Alchemy5 Tool & Archived assets + Tips; Punisher Machine Pistole & other model issue solving (ak2ny's case)
 Activision-Blizzard: X-Men Legends & Marvel Ultimate Alliance duology
 Marvel: Rights
+
 Capcom: Ultimate Iron Fist Costume from Ultimate Marvel vs. Capcom 3
