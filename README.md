@@ -2,7 +2,7 @@
 This project is for characters who are cut from Ravensoft version Marvel Ultimate Alliance 1 release or not make it in DLC, nor not appearing in X-Men Legends duology. "*" denotes for early bird cameo costumes
 
 List of Characters
-* Longshot - Originally planned as PSP exclusive. All models recreated by myself. Original Modified sources by NorrinRadd and BaconWizard
+* Longshot (TBR) - Originally planned as PSP exclusive. All models recreated by myself. Original Modified sources by NorrinRadd and BaconWizard
   * Classic
     * Sources: Ka-Zar; New X-Men Professor X Outfit; Ultimate Captain America Belt Pocket; Original Shoulder Strap & Right Leg Wrap; Costest of Champions Knife Model & Shoulder Strap Texture; Yellow Star Mark on Right Half of Jacket
   * Exiles(*)
