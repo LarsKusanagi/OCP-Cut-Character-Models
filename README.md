@@ -34,8 +34,8 @@ List of Characters
   * Modern
   * Excalibur
   * Classic
-* Namor (TBC) - Was a Striker in GBA. Only Modifie
-  * Original - Already in game
-  * Classic - Sleeveless Black
+* Namor (TBC) - Was a Striker in GBA. Only Modified Alternate Costumes + New One
+  * Classic - Already in game
+  * Retro - Sleeveless Black
   * Modern - Only fix textures
   * New Invaders(?)
