@@ -22,9 +22,9 @@ List of Characters
     * Sources: Same as Modern, but now with Ultimate Blade Jacket
 * Iron Fist - Originally planned as PSP exclusive. Updated from iammingy & Blaw's works. For the late Canino
   * Classic
-    * Sources: Red Guardian
+    * Sources: Guardian
   * Modern(*)
-    * Sources: Red Guardian
+    * Sources: Guardian
   * Ultimate
     * Sources: Quicksilver (usees BaconWizard Fix)
   * Retro - made by myself. Heroes for Hire 97
