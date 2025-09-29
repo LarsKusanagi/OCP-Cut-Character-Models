@@ -1,11 +1,11 @@
 = COSTUMES =
-All costumes uses Guardian Costumes except 1 which is Quicksilver's
+All costumes uses Guardian Model except 1 which is Quicksilver's. Both are from X-Men Legends 2
 
-- Ultimate = Updated Model vertex for the Collar; Belt made by Blaw; Remade Headband
--- First Appearance: The Punisher Vol. 5 #1 (2000)
-- Classic = Ultimate Classic, but no changes on Vertex nor include Collar
--- First Appearance: The Amazing Spider-Man Vol. 1 #129 (1974)
-- Ultimate = Quicksilver, but with Jacket that has Ultimate Marvel vs. Capcom 3 Texture
+- Classic = Updated Model vertex for the Collar; Belt made by Blaw; Remade Mask Strap
+-- First Appearance: Marvel Premier #15 (1975)
+- Modern = Belt made by Blaw; Remade Mask Strap
+-- First Appearance: The Immortal Iron Fist #6 (2007)
+- Ultimate = The only one with Quicksilver Model, but with Jacket that has Ultimate Marvel vs. Capcom 3 Texture
 -- First Appearance: Ultimate Spider-Man #80 (2005)
 - Retro = Retextured Modern, minus Belt
 -- First Appearance: Heroes for Hire Vol. 1 #11 (1998)
@@ -17,12 +17,11 @@ Other Bonuses. Doubled as patch for epicdragon's mod:
 * Renew Herostat - Dedicate to Canino
 
 Credits:
-iammingy: OG Mod
+iammingy: OG Mod & Texture Sources
 Canino (RIP): Current Mod
 Miles838: Co-Tester, Main Proper Porter
 BLaw, Enigma & BaconWizard: Kitbash Project Inspirations
 Kingsadam, ak2ny, Enigma, UltraMegaMagnus: Alchemy5 Tool & Archived assets + Tips; Punisher Machine Pistole & other model issue solving (ak2ny's case)
 Activision-Blizzard: X-Men Legends & Marvel Ultimate Alliance duology
 Marvel: Rights
-
 Capcom: Ultimate Iron Fist Costume from Ultimate Marvel vs. Capcom 3
