@@ -41,3 +41,7 @@ List of Characters
   * New Invaders(?)
 
 Link: https://marvelmods.com/forum/index.php/topic,11605.0.html
+
+ASSISTANCE NEEDED on Model Weight Paint of Certain Characters' Costumes:
+* Longshot: Shoulder Straps for All costumes except Exiles, and for Bag position except Exiles and Deadly Genesis
+* Iron Fist: Classic & Ultimate, Collar and Band-like Strap Mask behind his Mask outside his Ultimate
