@@ -26,7 +26,7 @@ List of Characters
   * Modern(*)
     * Sources: Guardian
   * Ultimate
-    * Sources: Quicksilver (usees BaconWizard Fix)
+    * Sources: Quicksilver (uses BaconWizard Fix)
   * Retro - made by myself. Heroes for Hire 97
     * Sources: Retextured Modern; Original Guards & Knee
 * Captain Britain (TBC) - Original model release with source Ultimate textures by Enigma, but requires update model while recreate his confirmed Alternate costumes
