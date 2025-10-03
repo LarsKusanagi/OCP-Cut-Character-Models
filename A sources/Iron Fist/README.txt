@@ -24,9 +24,10 @@ Other Bonuses. Doubled as patch for epicdragon's mod:
 Credits:
 iammingy: OG Mod & Texture Sources
 Canino (RIP): Current Mod
-Miles838: Co-Tester, Main Proper Porter
+ProfEscanor: Co-Tester, Main Proper Porter
 BLaw, Enigma & BaconWizard: Kitbash Project Inspirations
 Kingsadam, ak2ny, Enigma, UltraMegaMagnus: Alchemy5 Tool & Archived assets + Tips; Punisher Machine Pistole & other model issue solving (ak2ny's case)
 Activision-Blizzard: X-Men Legends & Marvel Ultimate Alliance duology
 Marvel: Rights
 Capcom: Ultimate Iron Fist Costume from Ultimate Marvel vs. Capcom 3
+
