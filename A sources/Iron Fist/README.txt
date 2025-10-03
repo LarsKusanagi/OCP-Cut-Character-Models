@@ -10,8 +10,8 @@ All costumes uses Guardian Model except 1 which is Quicksilver's. Both are from 
 - Retro = Retextured Modern, minus Belt
 -- First Appearance: Heroes for Hire Vol. 1 #11 (1998)
 
-I'll leave the rest to you guys on which still missing
-- Classic Collar Weight Paint is Still having an Issue
+I'll leave the rest to you guys on which still to be checked
+- Classic Collar Weight Paint
 
 Other Bonuses. Doubled as patch for epicdragon's mod:
 * Hud Heads
@@ -28,4 +28,5 @@ Kingsadam, ak2ny, Enigma, UltraMegaMagnus: Alchemy5 Tool & Archived assets + Tip
 Activision-Blizzard: X-Men Legends & Marvel Ultimate Alliance duology
 Marvel: Rights
 Capcom: Ultimate Iron Fist Costume from Ultimate Marvel vs. Capcom 3
+
 
