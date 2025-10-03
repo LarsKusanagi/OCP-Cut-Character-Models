@@ -29,14 +29,14 @@ List of Characters
     * Sources: Quicksilver (usees BaconWizard Fix)
   * Retro - made by myself. Heroes for Hire 97
     * Sources: Retextured Modern; Original Guards & Knee
-* Captain Britain (TBC) - Original model release with source Ulimate textures by Enigma, but requires update model while recreate his confirmed Alternate costumes
+* Captain Britain (TBC) - Original model release with source Ultimate textures by Enigma, but requires update model while recreate his confirmed Alternate costumes
   * Ultimate - only fix weights
   * Modern
   * Excalibur
   * Classic
 * Namor (TBC) - Was a Striker in GBA. Only Modified Alternate Costumes + New One
   * Classic - Already in game
-  * Retro - Sleeveless Black
+  * Retro - Sleeveless Black. Planned to be made by myself
   * Modern - Only fix textures
   * New Invaders(?)
 
