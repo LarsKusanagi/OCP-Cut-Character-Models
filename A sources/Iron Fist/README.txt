@@ -1,3 +1,7 @@
+V1.1: Model Updated
+
+V1.2: Mannequin & Updated Classic & Ultimate Huds
+
 = COSTUMES =
 All costumes uses Guardian Model except 1 which is Quicksilver's. Both are from X-Men Legends 2
 
@@ -28,5 +32,6 @@ Kingsadam, ak2ny, Enigma, UltraMegaMagnus: Alchemy5 Tool & Archived assets + Tip
 Activision-Blizzard: X-Men Legends & Marvel Ultimate Alliance duology
 Marvel: Rights
 Capcom: Ultimate Iron Fist Costume from Ultimate Marvel vs. Capcom 3
+
 
 
