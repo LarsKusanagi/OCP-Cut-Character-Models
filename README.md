@@ -42,9 +42,10 @@ List of Characters
 
 NOTE: One of the possible bonus features may include
 * Updated Icons from existing mods (some are updated from old version, and another is brand new (especially the banner and some new icons)
-* Huds
-* Generated Packages
-* Updated Herostat to associate between custom kitbash mesh I made, and the current mod
+* Huds (IGB TBA)
+* Loading Screens: Some can be taken from other sources that matches Marvel Ultimate Alliance and X-Men Legends loading screens.
+* Generated Packages (TBA)
+* Updated Herostat to associate between custom kitbash mesh I made, and the current mod (TBA)
 * New Animation Pack (some might start from FBX, first, unless I find the ways to rename my custom animations in 3DSMax (given the models are made in Blender) & mix new animations with old ones)
 
 Link: https://marvelmods.com/forum/index.php/topic,11605.0.html
