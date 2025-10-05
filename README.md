@@ -34,7 +34,7 @@ List of Characters
   * Modern
   * Excalibur
   * Classic
-* Namor (TBC) - Was a Striker in GBA. Only Modified Alternate Costumes + New One
+* Namor (TBC) - Main NPC who was meant to be playable in the final cut of the main Ravensoft version, and was made into a Striker in GBA. Only Modified Alternate Costumes + New One
   * Classic - Already in game
   * Retro - Sleeveless Black. Planned to be made by myself
   * Modern - Only fix textures
