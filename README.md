@@ -29,11 +29,11 @@ List of Characters
     * Sources: Quicksilver (uses BaconWizard Fix)
   * Retro - made by myself. Heroes for Hire 97
     * Sources: Retextured Modern; Original Guards & Knee
-* Captain Britain (TBC) - Original model release with source Ultimate textures by Enigma, but requires update model while recreate his confirmed Alternate costumes
+* Captain Britain (Costumes are TBC) - Original model release with source Ultimate textures by Enigma, but requires update model while recreate his confirmed Alternate costumes. Also includes Stick-based weapon Quarterstaff and Staar Specter based upon the comics, as Excalibur and Sword of Might already accurate and released by another modder for epicdragon94's mod.
   * Ultimate - only fix weights
   * Modern
   * Excalibur
-  * Classic
+  * Classic - Retetured Classic to fit in his loading screen being originate from Marvel Tales 2021 artwork
 * Namor (TBC) - Main NPC who was meant to be playable in the final cut of the main Ravensoft version, and was made into a Striker in GBA. Only Modified Alternate Costumes + New One
   * Classic - Already in game
   * Retro - Sleeveless Black. Planned to be made by myself
