@@ -7,6 +7,7 @@ All costumes uses Guardian Model except 1 which is Quicksilver's. Both are from 
 -- First Appearance: Marvel Premier #15 (1975)
 - Modern = Belt made by Blaw; Remade Mask Strap
 -- First Appearance: The Immortal Iron Fist #6 (2007)
+-- NOTE: Count as early bird cameo
 - Ultimate = The only one with Quicksilver Model, but with Jacket that has Ultimate Marvel vs. Capcom 3 Texture
 -- First Appearance: Ultimate Spider-Man #80 (2005)
 - Retro = Retextured Modern, minus Belt
@@ -26,8 +27,9 @@ iammingy: OG Mod & Texture Sources
 Canino (RIP): Current Mod
 ProfEscanor: Co-Tester, Main Proper Porter
 BLaw, Enigma & BaconWizard: Kitbash Project Inspirations
-Kingsadam, ak2ny, Enigma, UltraMegaMagnus: Alchemy5 Tool & Archived assets + Tips; Punisher Machine Pistole & other model issue solving (ak2ny's case)
+Kingsadam, ak2ny, Enigma, UltraMegaMagnus: Alchemy5 Tool & Archived assets + Tips
 Activision-Blizzard: X-Men Legends & Marvel Ultimate Alliance duology
 Marvel: Rights
 Capcom: Ultimate Iron Fist Costume from Ultimate Marvel vs. Capcom 3
+
 
