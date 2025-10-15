@@ -35,7 +35,7 @@ List of Characters
   * Excalibur
   * Classic - Retetured Classic to fit in his loading screen being originate from Marvel Tales 2021 artwork
 * Namor (TBC) - Main NPC who was meant to be playable in the final cut of the main Ravensoft version, and was made into a Striker in GBA. 1 Modified Alternate Costume originate from BLaw + 2 News Ones
-  * Original - Already in game
+  * Original - Already in game. Only his mannequin character select
   * Classic - Sleeveless Black called Savage Sub-Mariner + original Shoulder Pads
   * Modern - Fixed and updated textures + rework wristband Mesh
   * Retro - A Hydropolis uniform + Ponytail from Magneto's Age of Apocalypse
