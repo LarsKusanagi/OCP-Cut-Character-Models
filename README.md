@@ -8,9 +8,9 @@ List of Characters
   * Exiles(*)
     * Sources: Ka-Zar; New X-Men Professor X Outfit; Ultimate Captain America Belt Pocket; Original Shoulder Strap & Right Leg Wrap; Recolored Classic & Replace Star w/ Hand Logo
   * X-Factor(*)
-    * Sources: Ka-Zar; New X-Men Professor X Lower Model & Jacket Texture; Ultimate Captain America Belt Pocket; Original Shoulder Strap & Right Leg Wrap; Costest of Champions Shoulder Strap Texture; Ultimate Thor UV Data for Jacket
+    * Sources: Ka-Zar; New X-Men Professor X Outfit; Ultimate Captain America Belt Pocket; Original Shoulder Strap & Right Leg Wrap; Remodeled Costest of Champions Shoulder Strap; Formerly Ultimate Thor UV Data for Jacket
   * Deadly Genesis(*)
-    * Sources: Ka-Zar; New X-Men Professor X Outfit; Cyclops (Ultimate Hair + Astonishing Buckle Texture); Recolored Classic and no changes on both sides; X-Men Logos on Shoulder Jacket for Jacket
+    * Sources: Ka-Zar; New X-Men Professor X Outfit; Cyclops (Ultimate Hair + Astonishing Buckle Texture); Recolored Classic and no changes on both sides; X-Men Logos on Shoulder Jacket for Jacket; Remodeled Costest of Champions Shoulder Strap;
 * Punisher - Intended to appear, but was cut for licensing reasons. All models recreated by myself
   * Modern
     * Sources: Ultimate Nick Fury; Wyatt Face Texture
@@ -34,11 +34,11 @@ List of Characters
   * Modern
   * Excalibur
   * Classic - Retetured Classic to fit in his loading screen being originate from Marvel Tales 2021 artwork
-* Namor (TBC) - Main NPC who was meant to be playable in the final cut of the main Ravensoft version, and was made into a Striker in GBA. Only Modified Alternate Costumes + New One
-  * Classic - Already in game
-  * Retro - Sleeveless Black. Planned to be made by myself
-  * Modern - Only fix textures
-  * New Invaders(?)
+* Namor (TBC) - Main NPC who was meant to be playable in the final cut of the main Ravensoft version, and was made into a Striker in GBA. 1 Modified Alternate Costume originate from BLaw + 2 News Ones
+  * Original - Already in game
+  * Classic - Sleeveless Black called Savage Sub-Mariner + original Shoulder Pads
+  * Modern - Fixed and updated textures + rework wristband Mesh
+  * Retro - A Hydropolis uniform + Ponytail from Magneto's Age of Apocalypse
 
 NOTE: One of the possible bonus features may include
 * Updated Icons from existing mods (some are updated from old version, and another is brand new (especially the banner and some new icons)
