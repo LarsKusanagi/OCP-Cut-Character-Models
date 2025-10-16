@@ -20,10 +20,11 @@ Other Bonuses. Doubled as patch for Outsider's mod:
 Credits:
 Blizz: OG Mod
 Outsider: Current Mod
-Miles838: Co-Tester, Main Proper Porter
+Miles838: Co-Tester, Main Proper Porter, Photoroom suggestion
 BLaw, Enigma & BaconWizard: Kitbash Project Inspirations; Namor's Modern Texture (BLaw's case); Ponytail model from AoA Magneto, but the fixed version (BaconWizard's case)
 Kingsadam, ak2ny, Enigma, UltraMegaMagnus: Alchemy5 Tool & Archived assets + Tips; Namor Model and Bones Ripping (ak2ny's case)
 Activision-Blizzard: X-Men Legends & Marvel Ultimate Alliance duology
 Demiurge Studios & D3 Go!: Marvel Puzzle Quest Artwork
 Netmarble: Marvel Future Fight Icons
 Marvel: Rights
+
