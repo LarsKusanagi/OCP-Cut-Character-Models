@@ -29,16 +29,16 @@ List of Characters
     * Sources: Quicksilver (uses BaconWizard Fix)
   * Retro - made by myself. Heroes for Hire 97
     * Sources: Retextured Modern; Original Guards & Knee
-* Captain Britain (Costumes are TBC) - Original model release with source Ultimate textures by Enigma, but requires update model while recreate his confirmed Alternate costumes. Also includes Stick-based weapon Quarterstaff and Staar Specter based upon the comics, as Excalibur and Sword of Might already accurate and released by another modder for epicdragon94's mod.
-  * Ultimate - only fix weights
-  * Modern
-  * Excalibur
-  * Classic - Retetured Classic to fit in his loading screen being originate from Marvel Tales 2021 artwork
-* Namor (TBC) - Main NPC who was meant to be playable in the final cut of the main Ravensoft version, and was made into a Striker in GBA. 1 Modified Alternate Costume originate from BLaw + 2 News Ones
+* Namor - Main NPC who was meant to be playable in the final cut of the main Ravensoft version, and was made into a Striker in GBA. 1 Modified Alternate Costume originate from BLaw + 2 News Ones. Primarily for Outsider's mod
   * Original - Already in game. Only his mannequin character select
   * Classic - Sleeveless Black called Savage Sub-Mariner + original Shoulder Pads
-  * Modern - Fixed and updated textures + rework wristband Mesh
+  * Modern(*) - Fixed and updated textures + rework wristband Mesh
   * Retro - A Hydropolis uniform + Ponytail from Magneto's Age of Apocalypse
+* Captain Britain (Costumes are TBC) - Original model release with source Ultimate textures by Enigma, but requires update model while recreate his confirmed Alternate costumes. Also includes Stick-based weapon Quarterstaff and Staar Specter based upon the comics, as Excalibur and Sword of Might already accurate and released by another modder for epicdragon94's mod.
+  * Ultimate - only fix weights. The primary source
+  * Modern - may need Wyatt Wingfoot's Belt texture
+  * Excalibur Kneepads
+  * Classic - Retetured Classic to fit in his loading screen being originate from Marvel Tales 2021 artwork
 
 NOTE: One of the possible bonus features may include
 * Updated Icons from existing mods (some are updated from old version, and another is brand new (especially the banner and some new icons)
