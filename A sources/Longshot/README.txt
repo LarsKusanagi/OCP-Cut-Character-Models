@@ -24,6 +24,7 @@ I'll leave the rest to you guys on which still messy & missing
 
 Other Bonuses. Doubled as patch for epicdragon's mod:
 * Hud Heads
+* Strap Models, raw Weight Paintless
 * Renamed files from Number 95 to 139 to give space for Lockjaw Mod. Only packages, herostat, & 4_combat. Set to be added
 ** Update Menu will reuse Gambit's XML1 menu animations, while Idle's Cyclops' XML2/old Dark Cyclops idle. This allow Gambit can have new menu animation from MUA2 n-space, while Dark Cyclops would have updated animations to match his good playable counterpart
 * Renew Loading Screen from Contest of Champions
@@ -36,4 +37,5 @@ BLaw, Enigma & BaconWizard: Kitbash Project Inspirations
 Kingsadam, ak2ny, Enigma, UltraMegaMagnus: Alchemy5 Tool & Archived assets + Tips
 Kabam: Contest of Champions Game
 Activision-Blizzard: X-Men Legends & Marvel Ultimate Alliance duology
+
 Marvel: Rights
