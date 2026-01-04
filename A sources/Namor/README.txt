@@ -16,14 +16,15 @@ Other Bonuses. Doubled as patch for Outsider's mod:
 * Mannequin based on Original costume, his default appearance
 * New Loading Screen (Artworks originate from Marvel Puzzle Quest)
 * Renew Herostat
-* Renew Animation Sets (* denotes for Trident summon only):
+* Renew Animation Sets (* denotes for Trident summon only), can be merged with old ones:
 ** Newer Menu Animations: Menu Idle originally his cut idle stance, albeit reworked & repurposed
-** Old Menu Goodbye Renamed to Power 8 with readjustment
+** Old Menu Goodbye Renamed to Power 8 with readjustment. Due to being originally Iron Man's Attack Light 3, I made differences
 ** New Blocking*
-** New Power 4*: Double Hit Spear
+** New Power 4*: Trident Spin
 ** New Power 5/Xtreme*
-** Old Menu Action rename to Attack Trip*
-** Power 11 for Grab Smashes Renamed
+** What to Rename: If you have existing mod, currently Outsider, I would like to recommend to rename these animations' name
+*** Old Menu Action into attack_rip1*
+*** Power 11 into grab_smash
 
 Credits:
 Blizz: OG Mod
@@ -33,3 +34,4 @@ BLaw, Enigma & BaconWizard: Kitbash Project Inspirations; Namor's Modern Texture
 Kingsadam, ak2ny, Enigma, UltraMegaMagnus: Alchemy5 Tool & Archived assets + Tips; Namor Model and Bones Ripping (ak2ny's case)
 Activision-Blizzard: X-Men Legends & Marvel Ultimate Alliance duology
 Marvel: Rights
+
