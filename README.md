@@ -1,5 +1,5 @@
 # OCP-Cut-Character-Models
-This project is for characters who are cut from Ravensoft version Marvel Ultimate Alliance 1 release or not make it in DLC, nor not appearing in X-Men Legends duology. "*" denotes for early bird cameo costumes. Bonus features also adds new menu & idle animations on one of these characters
+This project is to provide raw assets for characters who are cut from Ravensoft version Marvel Ultimate Alliance 1 release or not make it in DLC, nor not appearing in X-Men Legends duology. "*" denotes for early bird cameo costumes. Bonus features also adds some new animations on one of these characters. Open for collaboration.
 
 List of Characters
 * Longshot - Originally planned as PSP exclusive. All models recreated by myself. Original Modified sources by NorrinRadd and BaconWizard
@@ -38,7 +38,7 @@ List of Characters
     * Sources: Fixed and updated textures + rework wristband Mesh
   * Retro
     * Sources: A Hydropolis uniform + Ponytail from Magneto's Age of Apocalypse
-* Captain Britain (Costumes are TBC) - Original model release with source Ultimate textures by Enigma, but requires update model while recreate his confirmed Alternate costumes. Also includes Stick-based weapon Quarterstaff and Staar Specter based upon the comics, as Excalibur and Sword of Might already accurate and released by another modder for epicdragon94's mod.
+* Captain Britain (Costumes are TBC) - Original model release with source Ultimate textures by Enigma, but requires update model while recreate his confirmed Alternate costumes. Also includes Stick-based weapon Quarterstaff and Staar Specter based upon the comics, as Excalibur and Sword of Might already accurate and released by another modder for epicdragon94's mod. May as well rework the texture UV and main model to fit in cut Captain Britain's original Ultimate texture.
   * Ultimate
     * Sources: only fix weights. The primary source
   * Modern
@@ -59,5 +59,6 @@ NOTE: One of the possible bonus features may include
 Link: https://marvelmods.com/forum/index.php/topic,11605.0.html
 
 ASSISTANCE NEEDED on Model Weight Paint of Certain Characters' Costumes:
-* Longshot: Shoulder Straps for All costumes except Exiles, and for Bag position except Exiles and Deadly Genesis
+* Longshot: Shoulder Straps for All costumes except Exiles, and for Bag Strap position except Exiles and Deadly Genesis
 * Iron Fist: Classic & Ultimate, Collar and Band-like Strap Mask behind his Mask outside his Ultimate
+* Captain Britain: Proper texturing for his Alternate Costumes
