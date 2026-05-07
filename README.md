@@ -7,8 +7,8 @@ List of Characters
     * Sources: Ka-Zar; New X-Men Professor X Outfit; Ultimate Captain America Belt Pocket; Original Shoulder Strap & Right Leg Wrap; Costest of Champions Knife Model & Shoulder Strap Texture; Yellow Star Mark on Right Half of Jacket
   * Exiles(*)
     * Sources: Ka-Zar; New X-Men Professor X Outfit; Ultimate Captain America Belt Pocket; Original Shoulder Strap & Right Leg Wrap; Recolored Classic & Replace Star w/ Hand Logo
-  * X-Factor(*)
-    * Sources: Ka-Zar; New X-Men Professor X Outfit; Ultimate Captain America Belt Pocket; Original Shoulder Strap & Right Leg Wrap; Remodeled Costest of Champions Shoulder Strap; Formerly Ultimate Thor UV Data for Jacket
+  * Stuntman
+    * Sources: Kazar's Upper Body + Magneto's Classic Cape + Fur Fore Legs like Original Sabretooth look + Wrist Bands + New X-Men Professor X's Pants only
   * Deadly Genesis(*)
     * Sources: Ka-Zar; New X-Men Professor X Outfit; Cyclops (Ultimate Hair + Astonishing Buckle Texture); Recolored Classic and no changes on both sides; X-Men Logos on Shoulder Jacket for Jacket; Remodeled Costest of Champions Shoulder Strap;
 * Punisher - Intended to appear, but was cut for licensing reasons. All models recreated by myself
@@ -59,6 +59,10 @@ NOTE: One of the possible bonus features may include
 Link: https://marvelmods.com/forum/index.php/topic,11605.0.html
 
 ASSISTANCE NEEDED on Model Weight Paint of Certain Characters' Costumes:
-* Longshot: Shoulder Straps for All costumes except Exiles, and for Bag Strap position except Exiles and Deadly Genesis
+* Longshot: Shoulder Straps for All costumes except Exiles, and for Bag Strap position except Exiles and Deadly Genesis. SOLVED
 * Iron Fist: Classic & Ultimate, Collar and Band-like Strap Mask behind his Mask outside his Ultimate
 * Captain Britain: Proper texturing for his Alternate Costumes
+
+NOTE:
+* Longshot's X-Factor(*) only appear as a bonus cut costume, due to difficulties on straps from shoulders to waists
+  * Sources: Ka-Zar; New X-Men Professor X Outfit; Ultimate Captain America Belt Pocket; Original Shoulder Strap & Right Leg Wrap; Remodeled Costest of Champions Shoulder Strap; Formerly Ultimate Thor UV Data for Jacket
