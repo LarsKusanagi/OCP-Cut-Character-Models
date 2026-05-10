@@ -20,7 +20,7 @@
    skin_03 = 03 ;
    skin_03_name = Stuntman ;
    skin_04 = 04 ;
-   skin_04_name = Deadly Genesis ;
+   skin_04_name = Retro ;
    sounddir = longs_m ;
    strength = 4 ;
    team = hero ;

@@ -11,21 +11,20 @@ Universally uses Kazar's Upper Body & New X-Men Professor X
 - Exiles = Kazar (Head & Arm) + Ultimate Captain America Pocket (4) + Hand Mark on right half
 -- First Appearance: Exiles #91 (2001)
 --- NOTE: A brainwashed Hydra Costume. Count as Early bird Cameo. Issues released on 2007
-- Stuntman = Kazar's Upper Body + Magneto's Classic Cape + Fur Fore Legs like Original Sabretooth look + Wrist Bands + New X-Men Professor X's Pants only. Only add Headband, Tanktop & Holster grip's textires
+- Stuntman = Kazar's Upper Body + Magneto's Classic Cape + Fur Fore Legs like Original Sabretooth look + Wrist Bands + New X-Men Professor X's Pants only
 -- First Appearance: Longshot #2 (1985)
---- NOTE: The only 2 costumes that isn't early bird cameo, based on Contest of Champions costume style per loading screen artwork
-- Deadly Genesis = Cyclops' Ultimate Hair (renewed) & Ears, and Astonishing's X-Buckle Texture + New X-Men Professor X's Jacket with no changes on both front halves
--- First Appearance: What If? X-Men Deadly Genesis (2006)
---- NOTE: Count as Early bird Cameo. Released 2 months after the game
+- Retro = Same as Classic, but different colors, three pocket each, minus strap bag. two leg straps on the right right per story lore
+-- First Appearance: The X-Men #10 (1991)
 
-I'll leave the rest to you guys on which still messy & missing (SOLVED)
+I'll leave the rest to you guys on which still messy & missing
 - Some Arm Weight Paints on Clavicle & Upper Arm are still messy
-- Straps for both Classic, X-Factor (Cut) & Deadly Genesis (the latter on the left side only) are missing
+- Straps for both Classic, X-Factor & Deadly Genesis (the latter on the left side only) are missing
+- Some Textures are in issues
 
 Other Bonuses. Doubled as patch for epicdragon's mod:
 * Hud Heads
 * Renamed files from Number 95 to 139 to give space for Lockjaw Mod. Only packages, herostat, & 4_combat. Set to be added
-** Update Menu will reuse Human Torch's MUA2 menu animations, while Idle's Cyclops' XML2/old Dark Cyclops idle. This would allow Dark Cyclops to have updated animations to match his good playable counterpart
+** Update Menu will reuse Gambit's XML1 menu animations, while Idle's Cyclops' XML2/old Dark Cyclops idle. This allow Gambit can have new menu animation from MUA2 n-space, while Dark Cyclops would have updated animations to match his good playable counterpart
 * Renew Loading Screen from Contest of Champions
 
 Credits:
@@ -43,3 +42,6 @@ NOTE: Some costumes, only available as an asset at my github, due to issues with
 - X-Factor = Kazar's Upper Body (Ultimate Thor (PS2) ver. as the basis for UV Wrapping) + Ultimate Captain America Pocket (Multiple from Side, Back & Front) Model +  + Star Mark on right half + New X-Men Professor X's Pants only
 -- First Appearance: X-Factor #35 (2006)
 --- NOTE: Count as Early bird Cameo. Issues released on 2008
+- Deadly Genesis = Cyclops' Ultimate Hair (renewed) & Ears, and Astonishing's X-Buckle Texture + New X-Men Professor X's Jacket with no changes on both front halves
+-- First Appearance: What If? X-Men Deadly Genesis (2006)
+--- NOTE: Count as Early bird Cameo. Released 2 months after the game
