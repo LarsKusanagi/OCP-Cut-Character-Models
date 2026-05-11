@@ -9,8 +9,8 @@ List of Characters
     * Sources: Ka-Zar; New X-Men Professor X Outfit; Ultimate Captain America Belt Pocket; Original Shoulder Strap & Right Leg Wrap; Recolored Classic & Replace Star w/ Hand Logo
   * Stuntman
     * Sources: Kazar's Upper Body + Magneto's Classic Cape + Fur Fore Legs like Original Sabretooth look + Wrist Bands + New X-Men Professor X's Pants only
-  * Deadly Genesis(*)
-    * Sources: Ka-Zar; New X-Men Professor X Outfit; Cyclops (Ultimate Hair + Astonishing Buckle Texture); Recolored Classic and no changes on both sides; X-Men Logos on Shoulder Jacket for Jacket; Remodeled Costest of Champions Shoulder Strap;
+  * Retro
+    * Sources: Same as Classic, but different colors, different leg strap, 3 pockets on each belt, and leg strap, and minus shoulder bag
 * Punisher - Intended to appear, but was cut for licensing reasons. All models recreated by myself
   * Modern
     * Sources: Ultimate Nick Fury; Wyatt Face Texture
@@ -64,5 +64,8 @@ ASSISTANCE NEEDED on Model Weight Paint of Certain Characters' Costumes:
 * Captain Britain: Proper texturing for his Alternate Costumes
 
 NOTE:
-* Longshot's X-Factor(*) only appear as a bonus cut costume, due to difficulties on straps from shoulders to waists
-  * Sources: Ka-Zar; New X-Men Professor X Outfit; Ultimate Captain America Belt Pocket; Original Shoulder Strap & Right Leg Wrap; Remodeled Costest of Champions Shoulder Strap; Formerly Ultimate Thor UV Data for Jacket
+* Longshot's 2 Costumes left as Bonus or Cut:
+  * X-Factor(*) only appear as a bonus cut costume, due to difficulties on straps from shoulders to waists
+    * Sources: Ka-Zar; New X-Men Professor X Outfit; Ultimate Captain America Belt Pocket; Original Shoulder Strap & Right Leg Wrap; Remodeled Costest of Champions Shoulder Strap; Formerly Ultimate Thor UV Data for Jacket
+  * Deadly Genesis(*)
+    * Sources: Ka-Zar; New X-Men Professor X Outfit; Cyclops (Ultimate Hair + Astonishing Buckle Texture); Recolored Classic and no changes on both sides; X-Men Logos on Shoulder Jacket for Jacket; Remodeled Costest of Champions Shoulder Strap
