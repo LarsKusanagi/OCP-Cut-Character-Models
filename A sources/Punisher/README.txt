@@ -8,14 +8,14 @@ To propriate with Cut Playable Status, his playable slot changes to #131. If you
 = COSTUMES =
 Universally uses Nick Fury's Models (primarily normal Ultimate, w/ Classic/Stealth for 2 Costumes), & Wyatt Wingfoot's Texture Parts for Arms and Head
 
-- Ultimate = Full Ultimate Fury Model + Classic/Stealth Fury's thigh straps
+- Modern = Full Ultimate Fury Model + Classic/Stealth Fury's thigh straps
 -- First Appearance: The Punisher Vol. 5 #1 (2000)
 - Classic = Ultimate Fury Upper Body minus Shoulder Strap + Classic/Stealth Fury Lower Body
 -- First Appearance: The Amazing Spider-Man Vol. 1 #129 (1974)
 - Retro = Ultimate Fury Upper Body + Classic/Stealth Fury Lower Body + original Bandanna Ribbon model
 -- First Appearance: The Punisher War Journal #17 (1990, Sleeveless); The Punisher War Zone #17 (1993, Green Parts); The Punisher War Zone #20 (1993, Bandanna)
 --- NOTE: Original made, based on Marvel Heroes costume, which has mixed element of 3 said issues
-- Ultimate = Reused Modern + Classic/Stealth Fury's thigh straps + Blade's Ultimate Jacket
+- Marvel Knights = Reused Modern + Classic/Stealth Fury's thigh straps + Blade's Ultimate Jacket
 -- First Appearance: The Punisher Vol. 5 #3 (2000)
 
 I'll leave the rest to you guys on which still missing
