@@ -4,13 +4,13 @@ This project is to provide raw assets for characters who are cut from Ravensoft 
 List of Characters
 * Longshot - Originally planned as PSP exclusive. All models recreated by myself. Original Modified sources by NorrinRadd and BaconWizard
   * Classic
-    * Sources: Ka-Zar; New X-Men Professor X Outfit; Ultimate Captain America Belt Pocket; Original Shoulder Strap & Right Leg Wrap; Costest of Champions Knife Model & Shoulder Strap Texture; Yellow Star Mark on Right Half of Jacket
+    * Sources: Ka-Zar; New X-Men Professor X Outfit; Ultimate Captain America Belt Pocket; Original Shoulder Straps & Right Leg Wrap; Costest of Champions Knife Model & Shoulder Strap Texture; Yellow Star Mark on Right Half of Jacket
   * Exiles(*)
-    * Sources: Ka-Zar; New X-Men Professor X Outfit; Ultimate Captain America Belt Pocket; Original Shoulder Strap & Right Leg Wrap; Recolored Classic & Replace Star w/ Hand Logo
+    * Sources: Ka-Zar; New X-Men Professor X Outfit; Ultimate Captain America Belt Pocket; Original Right Leg Wrap; Recolored Classic & Replace Star w/ Hand Logo
   * Stuntman
     * Sources: Kazar's Upper Body + Magneto's Classic Cape + Fur Fore Legs like Original Sabretooth look + Wrist Bands + New X-Men Professor X's Pants only
   * Retro
-    * Sources: Same as Classic, but different colors, different leg strap, 3 pockets on each belt, and leg strap, and minus shoulder bag
+    * Sources: Ka-Zar; New X-Men Professor X Outfit; Ultimate Captain America Belt Pocket; Original Shoulder Strap & Right Leg Wrap; Recolored Classic but without Right Straps
 * Punisher - Intended to appear, but was cut for licensing reasons. All models recreated by myself
   * Modern
     * Sources: Ultimate Nick Fury; Wyatt Face Texture
